@@ -1,0 +1,19 @@
+{
+  "name": "@chikirao/ajs",
+  "version": "1.0.0",
+  "description": "Домашка по \"Платформы: браузер vs Node.js\".",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chikirao/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chikirao/ajs/issues"
+  },
+  "homepage": "https://github.com/chikirao/ajs#readme"
+}
