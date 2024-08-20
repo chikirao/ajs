@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Домашка по \"Платформы: браузер vs Node.js\".",
   "main": "dist/index.js",
-  "publishConfig": {
+    "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
   },
   "scripts": {
